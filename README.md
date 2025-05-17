@@ -8,10 +8,15 @@ Este projeto é uma plataforma web de comparação de fundos de investimento e u
 - Visualizar comparações de forma prática e interativa
 
 ### Preview💻
-<img src="info.png">
-<img src="grafico.png">
-<img src="simulador.png">
-<br>
+
+<div align="center">
+  <img src="info.png" height="250px" style="margin-right:10px;">
+  <img src="grafico.png" height="250px">
+</div>
+
+<p align="center">
+  <img src="simulador.png" width="60%">
+</p>
 
 ### Processamento de Dados ⚙️: <br>
 Os dados brutos dos fundos foram coletados a partir do portal oficial da CVM:
