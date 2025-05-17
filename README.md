@@ -8,8 +8,9 @@ Este projeto é uma plataforma web de comparação de fundos de investimento e u
 - Visualizar comparações de forma prática e interativa
 
 ### Preview💻
-
-
+<img src="info.png">
+<img src="grafiico.png">
+<img src="simulador.png">
 <br>
 
 ### Processamento de Dados ⚙️: <br>
